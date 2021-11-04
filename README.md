@@ -22,8 +22,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## QUIZ 
-<a href="https://imgur.com/ma1OzjM"><img src="https://imgur.com/ma1OzjM" alt="Build Status"></a>
-<a href="https://imgur.com/KLigPsV"><img src="https://imgur.com/KLigPsV" alt="Build Status"></a>
+<a href="https://imgur.com/ma1OzjM"><img src="https://i.imgur.com/ma1OzjM.png" alt="Build Status"></a>
+<a href="https://imgur.com/KLigPsV"><img src="https://i.imgur.com/ma1OzjM.png" alt="Build Status"></a>
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 
